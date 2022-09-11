@@ -6,9 +6,9 @@
  */
 int main(void)
 {
-	int i
-	float f
-	char c
+	int i;
+	float f;
+	char c;
 
 	printf("Size of a char: %lu byte(s)\n",(unsigned long)sizeof(c));
 	printf("Size of a int: %lu byte(s)\n", (unsigned long)sizeof(i));
