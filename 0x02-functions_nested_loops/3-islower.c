@@ -12,12 +12,12 @@ int _islower(int c)
 	int ret;
 	if (c >= 123 ||  c <= 96)
 	{
-		ret = 0
+		ret = 0;
 	}
 	else
 	{
-		ret = 1
+		ret = 1;
 	}
-	return ret
+	return ret;
 }
 
