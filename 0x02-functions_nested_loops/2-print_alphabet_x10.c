@@ -1,7 +1,8 @@
 #include "main.h"
 /**
  * main - entry point
- * print_alphabet_x10 - build a alphabet in lower case x10
+ *
+ * print_alphabet_x10 - prints alphabet in lower case x10
  *
  * return : 0 (Success)
  */
