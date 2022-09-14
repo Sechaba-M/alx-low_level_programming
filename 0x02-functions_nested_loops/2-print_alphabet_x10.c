@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - entry point
- * print-alphabet - build a alphabet in lower case
+ * print_alphabet_x10() - build a alphabet in lower case x10
  *
  *
  * return : 0 (Success)
@@ -10,6 +10,7 @@ void print_alphabet_x10(void)
 {
 	char c;
 	int i;
+	
 	for (i = 0; i <= 9; i++)
 	{
 		for (c = 'a'; c <= 'z'; c++)
