@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - entry point
- * vod print-alphabet(void)
+ * print-alphabet() : build a alphabet in lower case
  *
  *
  * return : 0 (Success)
