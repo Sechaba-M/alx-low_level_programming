@@ -10,6 +10,7 @@
 int _islower(int c)
 {
 	int ret;
+
 	if (c >= 123 ||  c <= 96)
 	{
 		ret = 0;
