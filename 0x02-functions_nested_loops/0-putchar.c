@@ -12,7 +12,16 @@ int _putchar(char c);
 int main(void)
 {
 	char message = "_putchar\n";
-	_putchar(message);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	-putchar('r');
+	_putchar("\n");
+
 	return (0);
 }
 
