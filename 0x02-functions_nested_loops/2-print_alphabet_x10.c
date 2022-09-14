@@ -6,8 +6,7 @@
  *
  * return : 0 (Success)
  */
-void print_alphabet(void)
-/*prints small cas alpabets*/
+void print_alphabet_x10(void)
 {
 	char c;
 	int i;
