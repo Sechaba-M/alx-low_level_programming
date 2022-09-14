@@ -9,7 +9,6 @@
 
 int main(void)
 {
-	char message = "_putchar\n";
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
