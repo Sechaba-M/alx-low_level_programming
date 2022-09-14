@@ -7,7 +7,7 @@
  * Return: 0 (successful)
  */
 
-int _putchar(char c)
+int _putchar(char c);
 
 int main(void)
 {
