@@ -1,5 +1,6 @@
-#ifndef HEADER_FILE_NAME
-#define HEADER_FILE_NAME
+#ifndef HEADER_FILE
+#define HEADER_FILE
 
 int _isupper(int c);
+
 #endif
