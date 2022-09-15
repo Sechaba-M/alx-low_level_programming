@@ -9,13 +9,16 @@
  */
 int _isupper(int c)
 {
+	int ret;
+
 	if (c <= 64 || c >= 91)
 	{
-		return (0);
+		ret = 0;
 	}
 	else
 	{
-		return (1);
+		ret = 1;
 	}
+	return ret;
 }
 
