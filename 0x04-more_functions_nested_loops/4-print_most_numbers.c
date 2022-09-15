@@ -8,12 +8,11 @@ void print_most_numbers(void)
 	{
 		if (a == 2 || a == 4) 
 		{
-			a++;
 			continue;
 		}
 		else
 		{
-			_putchar(a)
+			_putchar(a);
 		}
 	}
 	_putchar('\n');
