@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdio>
 
 void print_most_numbers(void)
 {
