@@ -10,8 +10,8 @@ int _isdigit(int c)
 	}
 	else
 	{
-		ret = 1
+		ret = 1;
 	}
-	return ret
+	return ret;
 }
 
